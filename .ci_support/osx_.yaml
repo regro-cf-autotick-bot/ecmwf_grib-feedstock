@@ -21,7 +21,7 @@ hdf5:
 jasper:
 - 1.900.1
 libnetcdf:
-- 4.7.1
+- 4.7.4
 libpng:
 - '1.6'
 macos_machine:
@@ -31,7 +31,5 @@ macos_min_version:
 pin_run_as_build:
   jasper:
     max_pin: x
-  libnetcdf:
-    max_pin: x.x.x
   libpng:
     max_pin: x.x
